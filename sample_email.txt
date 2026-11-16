@@ -1,0 +1,4 @@
+From: security@paypa1.com
+Subject: Urgent: Verify your account
+Received-SPF: spf=fail
+Click here: http://paypal-secure-login.com/verify
